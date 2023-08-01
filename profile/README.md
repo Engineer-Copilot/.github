@@ -91,11 +91,5 @@ Engineering Copilot is the brainchild of a dedicated team of engineers and desig
 ## 💖 Acknowledgements: Extending Our Gratitude 💖
 
 Our journey wouldn't have been possible without the dedicated individuals who organized the hackathon (special shoutout to Khushi!) and our committed team that turned this vision into reality.
-
-<div align="center">
-  <img src="https://github.com/.github/blob/main/profile/team.png" alt="Team" width="300">
-</div>
-
-<div align="center">
   
   🎉 Embrace the future. Embrace Engineering Copilot
