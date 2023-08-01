@@ -37,10 +37,6 @@ Engineering Copilot stands as a comprehensive solution that simplifies the intri
 2. **AI Assistant**: Our AI-powered assistant interacts with users, comprehending and responding to their tech-related queries in a human-like conversation. This provides a more engaging and efficient way to access information.
 3. **Custom Insights**: Our solution offers customized widgets that distill key details about your tech specs into a quick snapshot. This empowers users to grasp critical information at a glance.
 
-<div align="center">
-  <img src="https://github.com/.github/blob/main/profile/mockup.png" alt="Vision" width="600">
-</div>
-
 ---
 
 ## 🔮 AI-Powered Insights: Unleashing the Power of AI 🔮
