@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🚀 Engineering Copilot: Mastering Tech Specifications 🚀
 
 <div align="center">
