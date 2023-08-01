@@ -19,7 +19,6 @@
 5. [Technology](#technology)
 6. [Roadmap](#roadmap)
 7. [Team](#team)
-8. [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -85,11 +84,5 @@ We're embarking on an exhilarating journey. Our roadmap includes integrating mor
 ## 👥 Team: The Architects of the Tech Spec Revolution 👥
 
 Engineering Copilot is the brainchild of a dedicated team of engineers and designers: Will Blair, Sneha Sivakumar, Jacky Huang, and Raul Faife. Their combined expertise and passion have made this groundbreaking solution possible.
-
----
-
-## 💖 Acknowledgements: Extending Our Gratitude 💖
-
-Our journey wouldn't have been possible without the dedicated individuals who organized the hackathon (special shoutout to Khushi!) and our committed team that turned this vision into reality.
   
   🎉 Embrace the future. Embrace Engineering Copilot
