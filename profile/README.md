@@ -1,6 +1,8 @@
+<div align="center">
+
 # 🚀 Engineering Copilot: Mastering Tech Specifications 🚀
 
-<div align="center">
+</div>
 
   [![Website](https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=logoColor=white)](https://kp-fellows-documents.vercel.app/)
   [![Presentation](https://img.shields.io/badge/-Presentation-orange?style=for-the-badge&logo=logoColor=white)](https://www.loom.com/share/7b8b3d11cb074de28de8418348f4c0ac)
