@@ -125,15 +125,11 @@ The journey of **Engineering Copilot** is far from over. In fact, it's just begi
 
 Every great platform is the result of a collective vision, dedication, and expertise. Meet the dedicated team that has breathed life into **Engineering Copilot**:
 
-1. **Dr. Jane Smith, CEO & Co-founder**: With a Ph.D. in Computational Engineering and over a decade of experience in the tech industry, Dr. Smith envisioned a tool that would bridge the gap between complex technical specifications and professionals. Her leadership and vision have been instrumental in shaping **Engineering Copilot**.
+1. **Will Blair**: A Kleiner Perkins Engineer in Residence, Z Fellow, NSERC USRA, and PROMOTE Fellow, Will is a proud graduate of Johns Hopkins and the former founder of Thermobeat, which was successfully acquired.
 
-2. **Raj Mehta, CTO**: A seasoned technologist, Raj has spearheaded the technological architecture of the platform. His deep understanding of AI, coupled with his passion for creating user-centric solutions, has been pivotal in crafting the platform's unique capabilities.
+2. **Cameron Mostoufi**: A dynamic leader and innovator who served as an Intern Mechanical Engineer at Lockheed Martin. Currently a senior at Purdue University, Cameron's technical prowess and forward-thinking approach have been pivotal in shaping the platform's technological architecture.
 
-3. **Laura Green, Head of Product**: Laura brings with her a rich experience in product development and management. She ensures that every feature of **Engineering Copilot** not only functions seamlessly but also aligns with the user's needs and industry trends.
-
-4. **Michael Nguyen, Head of Data Science**: Michael leads our team of data scientists, ensuring that the AI algorithms are always optimized, accurate, and evolving. His expertise ensures that the platform's insights are always razor-sharp.
-
-5. **Emily Rodriguez, Head of Marketing & Outreach**: Emily's dynamic approach to marketing ensures that **Engineering Copilot** reaches the professionals who need it the most. Her strategies have been pivotal in creating awareness and fostering community engagement.
+3. **Alec Ernst**: A student at Quinnipiac University with a focus on Biomedical Marketing and Finance. Alec's experience includes a Marketing Internship at Hologic, Inc., where he honed skills in Research, Marketing Strategy, Product Marketing, and Strategy.
 
 And of course, this is just the tip of the iceberg. Our larger team, consisting of developers, designers, data analysts, and support staff, work tirelessly behind the scenes, ensuring that **Engineering Copilot** remains the gold standard in interpreting technical specifications.
 
