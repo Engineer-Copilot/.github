@@ -91,9 +91,8 @@ Understanding the theoretical capabilities of a platform is essential, but seein
 
 The prowess of **Engineering Copilot** isn't just in its user interface or features but deeply rooted in the robust technological choices that power it. Here's an in-depth look at the technological components and why they're integral to the platform:
 
-1. **Machine Learning Models (BERT & ResNet)**:
-   - **BERT**: The Bidirectional Encoder Representations from Transformers (BERT) plays a pivotal role in understanding the context within textual technical specifications. Its bidirectional nature ensures that the meaning derived is not just based on individual words but the entire context, making it exceptionally potent in extracting accurate insights.
-   - **ResNet**: Deep learning requires depth in neural networks, but with depth comes the challenge of vanishing gradients. ResNet, or Residual Networks, overcome this by introducing "skip connections" that allow gradients to flow through the network's architecture. This ensures that our platform can delve deep into visual data, like diagrams or blueprints, without compromising on accuracy or efficiency.
+1. **Machine Learning Models**:
+Harnessing the power of machine learning is pivotal in interpreting technical specification sheets, which often brim with intricate diagrams, blueprints, and detailed data. Deep learning, a subset of machine learning, is adept at processing this vast amount of data. While deep neural networks are inherently powerful, they can face challenges like vanishing gradients when delving into complex data. Innovations in network architectures address these challenges, ensuring that insights extracted from spec sheets are both accurate and actionable, enabling professionals to make informed decisions.
 
 2. **Vector Database (Pinecone)**: Pinecone, a leading vector database, facilitates the representation of data in high-dimensional spaces. This choice ensures that complex, multi-faceted technical data can be represented efficiently, enabling lightning-fast retrievals and ensuring that user interactions are both smooth and insightful.
 
