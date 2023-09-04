@@ -130,11 +130,11 @@ The journey of **Engineering Copilot** is far from over. In fact, it's just begi
 
 Every great platform is the result of a collective vision, dedication, and expertise. Meet the Co-Founders of **Engineering Copilot**:
 
-1. **Will Blair**: A Kleiner Perkins Engineer in Residence, Z Fellow, NSERC USRA, and PROMOTE Fellow, Will is a proud graduate of Johns Hopkins and the former founder of Thermobeat, which was successfully acquired.
+**Will Blair**: A Kleiner Perkins Engineer in Residence, Z Fellow, NSERC USRA, and PROMOTE Fellow, Will is a proud graduate of Johns Hopkins and the former founder of Thermobeat, which was successfully acquired.
 
-2. **Cameron Mostoufi**: A dynamic leader and innovator who served as an Intern Mechanical Engineer at Lockheed Martin. Currently a senior at Purdue University, Cameron's technical prowess and forward-thinking approach have been pivotal in shaping the platform's technological architecture.
+**Cameron Mostoufi**: A dynamic leader and innovator who served as an Intern Mechanical Engineer at Lockheed Martin. Currently a senior at Purdue University, Cameron's technical prowess and forward-thinking approach have been pivotal in shaping the platform's technological architecture.
 
-3. **Alec Ernst**: A student at Quinnipiac University with a focus on Biomedical Marketing and Finance. Alec's experience includes a Marketing Internship at Hologic, Inc., where he honed skills in Research, Marketing Strategy, Product Marketing, and Strategy.
+**Alec Ernst**: A student at Quinnipiac University with a focus on Biomedical Marketing and Finance. Alec's experience includes a Marketing Internship at Hologic, Inc., where he honed skills in Research, Marketing Strategy, Product Marketing, and Strategy.
 
 And of course, this is just the tip of the iceberg. Our larger team, consisting of developers, designers, data analysts, and support staff, work tirelessly behind the scenes, ensuring that **Engineering Copilot** remains the gold standard in interpreting technical specifications.
 
