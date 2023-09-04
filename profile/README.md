@@ -14,7 +14,7 @@
 1. [Introduction](#introduction)
 2. [Engineering Capabilities](#engineering-capabilities)
 3. [AI-Powered Insights](#ai-powered-insights)
-4. [Use Case](#use-case)
+4. [Use Cases](#use-cases)
 5. [Technology](#technology)
 6. [Roadmap](#roadmap)
 7. [Team](#team)
