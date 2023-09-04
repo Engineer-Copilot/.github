@@ -122,7 +122,7 @@ The journey of **Engineering Copilot** is far from over. In fact, it's just begi
 
 ## Team: The Minds Behind Engineering Copilot
 
-Every great platform is the result of a collective vision, dedication, and expertise. Meet the dedicated team that has breathed life into **Engineering Copilot**:
+Every great platform is the result of a collective vision, dedication, and expertise. Meet the Co-Founders of **Engineering Copilot**:
 
 1. **Will Blair**: A Kleiner Perkins Engineer in Residence, Z Fellow, NSERC USRA, and PROMOTE Fellow, Will is a proud graduate of Johns Hopkins and the former founder of Thermobeat, which was successfully acquired.
 
